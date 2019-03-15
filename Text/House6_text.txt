@@ -1,0 +1,35 @@
+Steven: How have you been, Chris-Emio?
+Chris-Emio: Not much. Still trying to remember who I am. 
+Chris-Emio: Actually, could you help me out with that?
+Steven: Sure!
+Steven: We're classmates and co-workers. 
+Chris-Emio: Oh, perfect. Perhaps, you can help me fill in the gaps.
+Chris-Emio: What do we typically work on?
+Steven: You want to hear about the good projects or the bad ones?
+Chris-Emio: Start with the bad and soften the blow with the good ones.
+Steven: Haha! No problem.
+Steven: We tried to build a compiler in Haskell. That was not a fun time. 
+Steven: We did poorly on it. 
+Chris-Emio: How poorly?
+Steven: Very. 
+Steven: We didn't have enough time to complete the project. It was during finals week. We were up to our necks with work. We did the best we could.
+Chris-Emio: That sucks that we couldn't do better!
+Steven: You were pretty upset but that never held you back before.
+Chris-Emio: ...
+Steven: You're a hard worker. When you don't do as well as you expect, you get pretty upset. But you always learn from your mistakes and improve for the better.
+Chris-Emio: I see. Anyway, what was one of our best projects?
+Steven: Our best project was the discrete event simulator. 
+Chris-Emio: Sounds vaguely familiar. 
+Steven: We built a simulator to model a processing unit. The simulator could time a queuing system that accepted and processed over 1000 requests!
+Chris-Emio: That sounds cool!
+Steven: Yeah! We also developed a controller that managed different components of the system--
+Chris-Emio: --to effectively increase the efficiency of the simulator by allowing more requests to be processed.
+Chris-Emio: I remember it now! I remember the countless hours we stayed up, tweaking the codes to make sure it ran smoothly.
+Steven: Yup! Good old times!
+Steven: You've also done a few solo projects in Unity... making games. 
+Chris-Emio: Thanks for the help, man!
+Steven: You're welcome! See you around!
+Chris-Emio: See ya!
+
+
+ 

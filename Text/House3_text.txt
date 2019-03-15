@@ -1,0 +1,37 @@
+Ymir: Hey!
+Chris-Emio: Could you help me? 
+Ymir: What can I help you with?
+Chris-Emio: It may sound crazy, but I'm trying to piece my past together.
+Ymir: That's not crazy at all. What type of information are you looking for?
+Chris-Emio: Frankly, anything will do. Perhaps, a list of my skill sets?
+Ymir: Well let's see…
+Ymir: Oh! You're pretty good with coding languages!
+Ymir: You're a CS major. You told me that you were first inspired by your father.
+Ymir: You were obsessed with gaming and followed that path to learn the basic of coding.
+Ymir: You were pretty comfortable with the whole coding gibberish. 
+Chris-Emio: Really?
+Ymir: Yeah!
+Ymir: I remember Steven telling me about a few of the projects you guys worked on together.
+Ymir: You're very familiar with the C based languages...
+Ymir: like JAVA, JAVAScript, C, C++, C#, and Python.
+Ymir: You recently started working with HTML and CSS.
+Chris-Emio: Sounds intense... intense but cool.
+Ymir: Like I said you were good at what you did... I'm sure I'm missing a few things.
+Ymir: Maybe someone else will have more insights.
+Chris-Emio: Thanks Ymir. 
+Ymir: Don't mention it!
+
+Christa: Hey, Chris-Emio!
+Chris-Emio: Hey, Christa!
+Chris-Emio: I'm in a bind. Could you help me remember who I am?
+Christa: I'm not sure how helpful I'll be.
+Chris-Emio: That's okay. Anything you know about me will help.
+Christa: I know you speak three languages fluently.
+Chris-Emio: What are they?
+Christa: English, French, and Haitian Creole.
+Chris-Emio: I impress myself the more I learn about my past. I'm almost brilliant. 
+Christa: Don't compliment yourself. It's weird. 
+Chris-Emio: Duly noted.
+
+
+

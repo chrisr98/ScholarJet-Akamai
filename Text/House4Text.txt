@@ -1,0 +1,71 @@
+Atlas: Chris-Emio!! Welcome. 
+Chris-Emio: Hey! I've been going around the village and piecing my past together.
+Chris-Emio: I was wondering if you guys could help me out.
+Octavia: Sure, sweetie. Come on in.
+
+
+Atlas: What do you want to know?
+Chris-Emio: Beggars can't be choosers. Anything at all.
+Atlas: Well. I know that you're currently attending Boston University, class of 2020.
+Chris-Emio: That's pretty cool.
+Atlas: You were a recipient of the Boston Community Service Award scholarship.
+Atlas: You became even more involved in the community because of it.
+Chris-Emio: That makes sense. 
+Atlas: You are majoring in Computer Science and minoring in Economics. You have a passion for coding and making video games. 
+Atlas: When you were younger, you always said you wanted to become a game developer. Seems like you followed your passion. I was proud of that.
+Chris-Emio: That's one thing I remember-- my love for video games! Video games are works of art and take many forms.
+Chris-Emio: In this case, a resume.
+Atlas: What's that now? 
+Chris-Emio: Oh, nothing. I was just making a mental note.
+Chris-Emio: Did I like what I studied-- computer science, that is?
+Atlas: You never complained! You seemed like you were having a good time. You loved most of the classes that covered data structures, object oriented programming, web development, computer systems, and others along that line.
+Chris-Emio: Anything on video games?
+Atlas: I don't think those classes were offered. Everything you learned on video games were from online research and tutorials.
+Chris-Emio: Oh, I see.
+Atlas: You've worked hard, but still have a long way to go! 
+Atlas: There are many opportunities in the job market for you. 
+Chris-Emio: such as?
+Atlas: Software engineering; you've mentioned it a few times. 
+Chris-Emio: I'm sure they do important work.
+Atlas: Of course. 
+Atlas: Anyway, that's about all I got. 
+Chris-Emio: Thank you for everything, Mr. Smith!
+
+
+Octavia: What can I do for you? 
+Chris-Emio: Just trying to remember things about myself.
+Octavia: I don't think I have a lot of information.
+Chris-Emio: Anything will help, Mrs. Smith.
+Octavia: Well, I know you spent a lot of time on your computer.
+Chris-Emio: I'm sensing that with the bit of information I've been able to gather.
+Octavia: You helped me with a project once. I couldn't get photoshop to work properly.
+Octavia: You were kind enough to help me out with it!
+Chris-Emio: I'm glad I could help!
+Octavia: Of course! You are so tech-savvy. You are always so helpful!
+Octavia: Come to think of it, you seemed to have a solid understanding of many Microsoft and Adobe softwares and you taught me a few things!
+Chris-Emio: That's good to know.
+Octavia: I'm afraid that's all I know. 
+Chris-Emio: No worries, Mrs. Smith. That was plenty!
+Octavia: Glad I could help!  
+
+
+Chris-Emio: Is it safe to guess, you're Amelia. 
+Amelia: I've been hearing around town that you lost your memory! That must be awful!
+Amelia: I'm glad you didn't forgot me.
+Chris-Emio: How could I ever?
+Amelia: Uh? 
+Amelia: You saw the post in front of the house with my name on it, didn't you?
+Chris-Emio: Would you believe me if I said no?
+Amelia: No hard feelings. 
+Chris-Emio: Sorry.
+Amelia: It's okay!
+Amelia: What can I do you for?
+Chris-Emio: What do you know of me?
+Amelia: I think you once told me something about Unix or Linux.
+Chris-Emio: Unix? Linux?
+Amelia: Oh, you also mentioned shell scripting.
+Chris-Emio: ...
+Amelia: Sorry, but I don't retain conversations well! Wish I could be of more help!
+Chris-Emio: Thanks for trying to help.
+Chris-Emio: I'll see if I can get more elsewhere.
+
